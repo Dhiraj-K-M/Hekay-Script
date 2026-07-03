@@ -1,0 +1,5 @@
+show "Welcome to Hekay"
+
+het name = "Dhiraj"
+
+show "Language Started"
